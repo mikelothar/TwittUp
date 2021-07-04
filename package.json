@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mikelothar/TwittUp/issues"
   },
-  "homepage": "https://github.com/mikelothar/TwittUp#readme"
+  "homepage": "https://github.com/mikelothar/TwittUp#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
 }
